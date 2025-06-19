@@ -68,7 +68,7 @@ st.set_page_config(page_title="Madhu Sekhar | AI/ML Portfolio", layout="wide")
 local_css()
 
 # --- Load Resume PDF ---
-with open("Madhu_Sekhar_Resume.pdf", "rb") as file:
+with open("MADHU_SEKHAR's_Resume.pdf", "rb") as file:
     resume_data = file.read()
 
 # --- Data ---
